@@ -5,6 +5,6 @@ hello jiangte!
 hello jiangte!
 hello jiangte!
 hello jiangte!
-hello jiangte!
 hello jiangte!--master test
+hello jiangte!--hot-fix test
 hello jiangte!
